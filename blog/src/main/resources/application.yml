@@ -1,0 +1,9 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: pro
+
+comment.avatar: /images/avatar.png
+server:
+  port: 8080
